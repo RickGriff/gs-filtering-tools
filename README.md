@@ -17,6 +17,7 @@ Re-load your Sheet. Grant the script permission from your Google account, and a 
 - `getBlueCells`
 - `tableToHTML`
 - `tableToList`
+- `extractHrefsAndTitles`
 
 ### Usage 
 
